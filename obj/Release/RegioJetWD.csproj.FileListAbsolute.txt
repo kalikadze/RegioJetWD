@@ -1,0 +1,13 @@
+U:\Projects\RegioJetWD\RegioJetWD\bin\Release\RegioJetWD.exe.config
+U:\Projects\RegioJetWD\RegioJetWD\bin\Release\RegioJetWD.exe
+U:\Projects\RegioJetWD\RegioJetWD\bin\Release\RegioJetWD.pdb
+U:\Projects\RegioJetWD\RegioJetWD\bin\Release\nunit.framework.dll
+U:\Projects\RegioJetWD\RegioJetWD\bin\Release\WebDriver.dll
+U:\Projects\RegioJetWD\RegioJetWD\bin\Release\nunit.framework.xml
+U:\Projects\RegioJetWD\RegioJetWD\bin\Release\WebDriver.xml
+U:\Projects\RegioJetWD\RegioJetWD\obj\Release\RegioJetWD.Properties.Resources.resources
+U:\Projects\RegioJetWD\RegioJetWD\obj\Release\RegioJetWD.RJWDForm.resources
+U:\Projects\RegioJetWD\RegioJetWD\obj\Release\RegioJetWD.csproj.GenerateResource.Cache
+U:\Projects\RegioJetWD\RegioJetWD\obj\Release\RegioJetWD.exe
+U:\Projects\RegioJetWD\RegioJetWD\obj\Release\RegioJetWD.pdb
+U:\Projects\RegioJetWD\RegioJetWD\obj\Release\RegioJetWD.csprojResolveAssemblyReference.cache
